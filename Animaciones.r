@@ -1,5 +1,5 @@
 # Animacionesenr
-#mariana
+#mariana alicia
 #Borrar todas las variables existentes
 
 rm(list=ls())
